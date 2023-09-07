@@ -354,21 +354,21 @@ html {
 }
 
 .home-screen {
-  background: url(../images/Background_1-384abd3f302b8a56fe6bc35651e07c51.jpg);
+  background: url(../images/discover_bg.jpg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover !important
 }
 
 .dream-job-screen {
-  background: url(../images/Background_3-f84ea629f3c95b729c76bc2ce1038d00.jpg);
+  background: url(../images/home_slide03.jpg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover
 }
 
 .hire-talent-screen {
-  background: url(../images/Background_2-20b9458d61b8b3c2ee451fd7f34306b7.jpg);
+  background: url(../images/hiretalent_bg.jpg);
   background-position: 50%;
   background-repeat: no-repeat;
   background-size: cover
@@ -1338,3 +1338,7 @@ body {
 }
 .content-section h1 {font-size: 28px; font-weight: 800; color: #fff;}
 .custome-breadcrumb {padding: 30px 3rem 0 3rem}
+#currentpage .c-black{color:#da291c !important;}
+html {
+  scroll-behavior: smooth;
+}

@@ -20,7 +20,7 @@
                 <div class="home-screen custom-section fp-auto-height min-vh-100 fp-noscroll">
                   <div class="ant-row-flex ant-row-flex-center ant-row-flex-middle p-6 p-md-9 p-lg-0">
                     <div class="ant-col d-none d-lg-block pt-7 ant-col-md-24 ant-col-lg-10">
-                      <img src="images/homescreen-a2e3081d33cc900db97e86931afc1ee1.png" alt="home image" class="mw-100" />
+                      <img src="images/home_slide01.png" alt="home image" class="mw-100" />
                     </div>
                     <div class="ant-col ant-col-md-24 ant-col-lg-9">
                       <h1 class="heading-1 c-white">Welcome to Accecore</h1>
@@ -53,7 +53,7 @@
                     </div>
                   </div>
                 </div>
-                <div class="custom-section fp-auto-height-responsive">
+                <div id="solutions"  class="custom-section fp-auto-height-responsive">
                   <div style="background-color:rgb(147, 147, 147, 0.1)" class="py-6">
                     <div class="ant-row-flex ant-row-flex-center heading-3 pb-4">Solutions</div>
                     <div class="ant-row-flex ant-row-flex-center px-lg-normal px-2">

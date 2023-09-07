@@ -27,26 +27,22 @@
       </div>
       <div class="ant-row-flex ant-row-flex-end ant-row-flex-middle d-lg-flex d-none">
         <div class="ant-row-flex ant-row-flex-middle">
-          <a class="ant-dropdown-link px-4 ant-dropdown-trigger">
-            <span class="c-black font-normal pr-1">Solutions</span>
-          </a>
-          <a class="ant-dropdown-link px-4 ant-dropdown-trigger">
-            <span class="c-black font-normal pr-1">Media</span>
-          </a>
-          <a class="ant-dropdown-link px-4 ant-dropdown-trigger">
+          <a href="aboutus" <?php if (isset($currentPage) && $currentPage == "About Us") echo 'id="currentpage"'; ?> class="ant-dropdown-link px-4 ant-dropdown-trigger">
             <span class="c-black font-normal pr-1">About Us</span>
           </a>
-          <a class="ant-dropdown-link px-4 ant-dropdown-trigger">
-            <span class="c-black font-normal pr-1">Contact Us</span>
+          <a href="/accecore/#solutions"  target="_self <?php if (isset($currentPage) && $currentPage == "solutions") echo 'id="currentpage"'; ?> class="ant-dropdown-link px-4 ant-dropdown-trigger">
+            <span class="solutionslink c-black font-normal pr-1">Solutions</span>
           </a>
-          <a class="ant-dropdown-link px-4 ant-dropdown-trigger">
-            <span class="c-black font-normal pr-1">Job Seekers</span>
+          <a href="customers" <?php if (isset($currentPage) && $currentPage == "customers") echo 'id="currentpage"'; ?> class="ant-dropdown-link px-4 ant-dropdown-trigger">
+            <span class="c-black font-normal pr-1">Customers</span>
+          <a href="careers" <?php if (isset($currentPage) && $currentPage == "careers") echo 'id="currentpage"'; ?> class="ant-dropdown-link px-4 ant-dropdown-trigger">
+            <span class="c-black font-normal pr-1">Careers</span>
           </a>
           <button type="button" class="ant-btn pr-4">
-            <a href="#" target="_blank">Client Hub</a>
+            <a href="#" target="_blank">Events</a>
           </button>
           <button type="button" class="ant-btn  mx-4">
-            <a href="#" target="_blank">Associate Hub</a>
+            <a href="#" target="_blank">Contact Us</a>
           </button>
         </div>
       </div>
