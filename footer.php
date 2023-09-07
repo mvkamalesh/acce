@@ -4,84 +4,55 @@
       <div class="ant-row-flex">
         <div class="ant-col ant-col-24  d-flex flex-column align-items-center align-items-md-start ant-col-md-12 ant-col-lg-6">
           <div class="font-h6 fw-600 c-white py-2">Know Us</div>
-          <a href="/about-us">
+          <a href="aboutus">
             <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">About Us</div>
           </a>
-          <a href="/locations">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Locations </div>
-          </a>
-          <a href="/privacy-policy">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Privacy Policy </div>
-          </a>
-          <a href="/security">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Security</div>
-          </a>
-          <a href="/contact-us">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Contact Us </div>
-          </a>
-          <a href="/cookie-policy">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Cookie Policy </div>
+          <a href="contactus">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Contact Us</div>
           </a>
         </div>
         <div class="ant-col ant-col-24  d-flex flex-column align-items-center align-items-md-start ant-col-md-12 ant-col-lg-6">
           <div class="font-h6 fw-600 c-white py-2">Solutions</div>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">General Staffing</div>
+          <a href="software">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Software Engineering & Assurance</div>
           </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Professional Staffing</div>
+          <a href="analytics-datascience">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Analytics, Data Science & AI</div>
           </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Permanent Recruitment</div>
+          <a href="cloud-infrastructure">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Cloud Infrastructure</div>
           </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Outsourcing </div>
+          <a href="transformation">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Transformation </div>
           </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">RPO Lite</div>
-          </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">International Engagement</div>
+          <a href="staffing">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Staffing & Resource Augmentation</div>
           </a>
         </div>
         <div class="ant-col ant-col-24  mt-0 mt-md-5 d-flex flex-column align-items-center align-items-md-start ant-col-md-12 ant-col-lg-6">
           <div class="font-h6 fw-600 c-white py-2"></div>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Hire Train Deploy</div>
+          <a href="digital-innovation">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Digital Innovation & Experience Platforms</div>
           </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Talent Development &amp; Career Transition</div>
+          <a href="experience-design">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Experience Design</div>
           </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">MSP &amp; RPO </div>
+          <a href="data-modernization">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Data Modernization & Hyper Automation</div>
           </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Digital Solutions</div>
+          <a href="iot">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Internet of Things</div>
           </a>
         </div>
         <div class="ant-col ant-col-24  d-flex flex-column align-items-center align-items-md-start ant-col-md-12 ant-col-lg-6">
           <div class="font-h6 fw-600 c-white py-2">Others</div>
           <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Refer a Friend </div>
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Careers</div>
           </a>
           <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">FAQs</div>
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Events</div>
           </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Blogs</div>
-          </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Videos</div>
-          </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Media Coverage </div>
-          </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Press Release </div>
-          </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer"></div>
-          </a>
+
         </div>
       </div>
     </div>

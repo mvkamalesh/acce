@@ -39,10 +39,10 @@
             <span class="c-black font-normal pr-1">Careers</span>
           </a>
           <button type="button" class="ant-btn pr-4">
-            <a href="#" target="_blank">Events</a>
+            <a href="#">Events</a>
           </button>
           <button type="button" class="ant-btn  mx-4">
-            <a href="#" target="_blank">Contact Us</a>
+            <a href="contactus">Contact Us</a>
           </button>
         </div>
       </div>

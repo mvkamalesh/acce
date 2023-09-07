@@ -58,7 +58,7 @@
                     <div class="ant-row-flex ant-row-flex-center heading-3 pb-4">Solutions</div>
                     <div class="ant-row-flex ant-row-flex-center px-lg-normal px-2">
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a class="d-flex w-100" href="#">
+                        <a href="software" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -77,7 +77,7 @@
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a class="d-flex w-100" href="#">
+                        <a href="analytics-datascience" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -96,7 +96,7 @@
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a class="d-flex w-100" href="#">
+                        <a href="cloud-infrastructure" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -115,7 +115,7 @@
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a class="d-flex w-100" href="#">
+                        <a href="transformation" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -134,7 +134,7 @@
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a class="d-flex w-100" href="#">
+                        <a href="staffing" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -153,7 +153,7 @@
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a class="d-flex w-100" href="#">
+                        <a href="digital-innovation" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -172,7 +172,7 @@
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a class="d-flex w-100" href="#">
+                        <a href="experience-design" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -191,7 +191,7 @@
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a class="d-flex w-100" href="#">
+                        <a href="data-modernization" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -210,7 +210,7 @@
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a class="d-flex w-100" href="#">
+                        <a href="iot" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
