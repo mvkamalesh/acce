@@ -30,7 +30,7 @@
           <a href="aboutus" <?php if (isset($currentPage) && $currentPage == "About Us") echo 'id="currentpage"'; ?> class="ant-dropdown-link px-4 ant-dropdown-trigger">
             <span class="c-black font-normal pr-1">About Us</span>
           </a>
-          <a href="/accecore/#solutions"  target="_self <?php if (isset($currentPage) && $currentPage == "solutions") echo 'id="currentpage"'; ?> class="ant-dropdown-link px-4 ant-dropdown-trigger">
+          <a href="/accecore/#solutions" <?php if (isset($currentPage) && $currentPage == "solutions") echo 'id="currentpage"'; ?> class="ant-dropdown-link px-4 ant-dropdown-trigger">
             <span class="solutionslink c-black font-normal pr-1">Solutions</span>
           </a>
           <a href="customers" <?php if (isset($currentPage) && $currentPage == "customers") echo 'id="currentpage"'; ?> class="ant-dropdown-link px-4 ant-dropdown-trigger">
