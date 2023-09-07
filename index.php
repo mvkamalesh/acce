@@ -23,7 +23,7 @@
                       <img src="images/homescreen-a2e3081d33cc900db97e86931afc1ee1.png" alt="home image" class="mw-100" />
                     </div>
                     <div class="ant-col ant-col-md-24 ant-col-lg-9">
-                      <h1 class="heading-1 c-white">Welcome to Accecore</h1>
+                      <h1 class="heading-1 c-white">Welcome to Accecore1</h1>
                       <h2 class="heading-4 c-white ls-1">Enterprise Transformation</h2>
                       <h3 class="c-white fw-600 ls-1" style="line-height:2">A global leader in digital consultancy with over 2 decades of experience in managing the systems. Strategy and practical approach to help enterprises succeed through their digital journey. We can shape a better future with connected ideas, technology and talent.</h3>
                     </div>
