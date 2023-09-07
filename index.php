@@ -4,7 +4,7 @@
     <meta charSet="utf-8" />
     <meta http-equiv="x-ua-compatible" content="ie=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-    <title>Welcome to Accecore</title>
+    <title>Welcome to Accecore 1</title>
     <link rel="stylesheet" href="css/style.css">
     <meta name="theme-color" content="#663399" />
   </head>
