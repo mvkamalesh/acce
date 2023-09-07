@@ -10,6 +10,7 @@ $currentPage = "solutions";
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
   <title>Accecore | Digital Innovation & Experience Platforms</title>
   <link rel="stylesheet" href="css/style.css">
+  <?php include 'favicon.php';?>
   <meta name="theme-color" content="#663399" />
 </head>
 

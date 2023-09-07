@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
     <title>Welcome to Accecore</title>
     <link rel="stylesheet" href="css/style.css">
+    <?php include 'favicon.php';?>
     <meta name="theme-color" content="#663399" />
   </head>
   <body>
