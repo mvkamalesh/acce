@@ -1336,7 +1336,10 @@ body {
   position: relative;  
   margin-top: 97px;
 }
-.content-section h1 {font-size: 34px; font-weight: 800; color: #fff;text-shadow: 4px 2px 2px rgba(0,0,0,0.6);}
+.content-section h1 {font-size: 34px; font-weight: 800; color: #fff;text-shadow: 4px 2px 2px rgba(0,0,0,0.6);
+  transform: scale(0.94);
+  animation: scale 3s forwards cubic-bezier(0.5, 1, 0.89, 1);
+}
 .custome-breadcrumb {padding: 30px 3rem 0 3rem}
 #currentpage .c-black{color:#da291c !important;}
 html {
@@ -1517,13 +1520,7 @@ font-family: "Bangers", cursive;
   margin: 0;
   padding: 0;
 }
-body {
-  font-size: 17px;
-  color: #424242;
-  font-family: "Open Sans", sans-serif;
-  background-color: #ffffff;
-  background-image: url("https://www.transparenttextures.com/patterns/clean-gray-paper.png");
-}
+
 h1,
 h2,
 h3,
@@ -1926,4 +1923,15 @@ p.para {
   font-family: "Lora", serif;
   padding-top: 5px;
   color: #333333;
+}
+
+
+
+/* lineup class and keyframes */
+.content-section h1 {
+  animation: fadeIn 5s;
+}
+@keyframes fadeIn {
+  0% { opacity: 0; }
+  100% { opacity: 1; }
 }
