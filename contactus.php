@@ -42,18 +42,11 @@
           <div class="ant-row mb-5">
             <div class="ant-col ant-col-xs-24 ant-col-sm-24 ant-col-md-24 ant-col-lg-16 ant-col-xl-16">
               <div class="details">
-              <!DOCTYPE html>
-<!-- Coding By CodingNepal - youtube.com/codingnepal -->
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact Form in PHP | CodingNepal</title>
+  
   <link rel="stylesheet" href="style.css">
   <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
-</head>
-<body>
+
   <div class="wrapper">
     <header>Send us a Message</header>
     <form action="#">
@@ -122,8 +115,7 @@ form.onsubmit = (e)=>{
   xhr.send(formData);
 }
     </script>
-</body>
-</html>
+
               </div>
 
             </div>
