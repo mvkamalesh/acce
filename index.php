@@ -59,7 +59,7 @@
                     <div class="ant-row-flex ant-row-flex-center heading-3 pb-4">Solutions</div>
                     <div class="ant-row-flex ant-row-flex-center px-lg-normal px-2">
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a href="software" class="d-flex w-100" href="#">
+                        <a href="generalstaffing" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -68,17 +68,17 @@
                                 </div>
                                 <div class="ant-col ant-col-19">
                                   <span class="font-large">
-                                    <b>Software Engineering &amp; Assurance</b>
+                                    <b>General Staffing</b>
                                   </span>
                                 </div>
                               </div>
-                              <div class="ant-row-flex font-xsmall lh-medium">Expertise in Software Engineering &amp; continuously test entire platforms, not just your apps.</div>
+                              <div class="ant-row-flex font-xsmall lh-medium">Unlocking human potential to ensure that everyone has access to fair and dignified jobs</div>
                             </div>
                           </div>
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a href="analytics-datascience" class="d-flex w-100" href="#">
+                        <a href="outsourcing-services" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -87,17 +87,17 @@
                                 </div>
                                 <div class="ant-col ant-col-19">
                                   <span class="font-large">
-                                    <b>Analytics, Data Science &amp; AI</b>
+                                    <b>Outsourcing Services</b>
                                   </span>
                                 </div>
                               </div>
-                              <div class="ant-row-flex font-xsmall lh-medium">Move from operational reporting to offering data-driven product and service innovation.</div>
+                              <div class="ant-row-flex font-xsmall lh-medium">Creating flexible and agile workforce solutions</div>
                             </div>
                           </div>
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a href="cloud-infrastructure" class="d-flex w-100" href="#">
+                        <a href="professional-staffing" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -106,17 +106,17 @@
                                 </div>
                                 <div class="ant-col ant-col-19">
                                   <span class="font-large">
-                                    <b>Cloud Infrastructure</b>
+                                    <b>Professional Staffing</b>
                                   </span>
                                 </div>
                               </div>
-                              <div class="ant-row-flex font-xsmall lh-medium">The cloud creates a continuum so you can develop, launch and optimize product constantly.</div>
+                              <div class="ant-row-flex font-xsmall lh-medium">Getting top tech talent is important, but it can be made easier for your company.</div>
                             </div>
                           </div>
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a href="transformation" class="d-flex w-100" href="#">
+                        <a href="hire-train-deploy" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -125,17 +125,17 @@
                                 </div>
                                 <div class="ant-col ant-col-19">
                                   <span class="font-large">
-                                    <b>Transformation</b>
+                                    <b>Hire Train Deploy</b>
                                   </span>
                                 </div>
                               </div>
-                              <div class="ant-row-flex font-xsmall lh-medium">Digitize and transform the functions that drive your customer experience.</div>
+                              <div class="ant-row-flex font-xsmall lh-medium">A workforce solution that is adapted to your needs</div>
                             </div>
                           </div>
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a href="staffing" class="d-flex w-100" href="#">
+                        <a href="permanent-placements" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -144,17 +144,17 @@
                                 </div>
                                 <div class="ant-col ant-col-19">
                                   <span class="font-large">
-                                    <b>Talent Consulting &amp; Staff Augmentation</b>
+                                    <b>Permanent Placements</b>
                                   </span>
                                 </div>
                               </div>
-                              <div class="ant-row-flex font-xsmall lh-medium">We create human connections to change lives and deliver meaningful impact.</div>
+                              <div class="ant-row-flex font-xsmall lh-medium">People are everything to us. Permanently</div>
                             </div>
                           </div>
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a href="digital-innovation" class="d-flex w-100" href="#">
+                        <a href="rpolite" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -163,17 +163,17 @@
                                 </div>
                                 <div class="ant-col ant-col-19">
                                   <span class="font-large">
-                                    <b>Digital Innovation &amp; Experience Platforms</b>
+                                    <b>RPO Lite</b>
                                   </span>
                                 </div>
                               </div>
-                              <div class="ant-row-flex font-xsmall lh-medium">Bring promising ideas to architect and configure platforms that deliver on your customer experience.</div>
+                              <div class="ant-row-flex font-xsmall lh-medium">Strong and unique offerings, outstanding delivery, and ongoing improvement</div>
                             </div>
                           </div>
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a href="experience-design" class="d-flex w-100" href="#">
+                        <a href="payroll-outsourcing" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -182,17 +182,17 @@
                                 </div>
                                 <div class="ant-col ant-col-19">
                                   <span class="font-large">
-                                    <b>Experience Design</b>
+                                    <b>Payroll Outsourcing</b>
                                   </span>
                                 </div>
                               </div>
-                              <div class="ant-row-flex font-xsmall lh-medium">Transform your brand with experiences that unlock its full potential.</div>
+                              <div class="ant-row-flex font-xsmall lh-medium">To maximize your return on investment and guarantee employee happiness,</div>
                             </div>
                           </div>
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a href="data-modernization" class="d-flex w-100" href="#">
+                        <a href="enterprise-solutions" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -201,17 +201,17 @@
                                 </div>
                                 <div class="ant-col ant-col-19">
                                   <span class="font-large">
-                                    <b>Data Modernization &amp; Hyper Automation</b>
+                                    <b>Enterprise Solutions</b>
                                   </span>
                                 </div>
                               </div>
-                              <div class="ant-row-flex font-xsmall lh-medium">Modernizing your data estate to discover and automate the processes is the key to leveraging advanced analytics and the cloud.</div>
+                              <div class="ant-row-flex font-xsmall lh-medium">Generating value with a wide range of techniques</div>
                             </div>
                           </div>
                         </a>
                       </div>
                       <div class="ant-col ant-col-24 pr-lg-2 pr-0 pb-2 d-flex ant-col-lg-8">
-                        <a href="iot" class="d-flex w-100" href="#">
+                        <a href="hr-advisory" class="d-flex w-100" href="#">
                           <div class="solution-card c-white w-100 d-flex">
                             <div class="child w-100 px-4 py-3">
                               <div class="ant-row-flex ant-row-flex-middle pb-2">
@@ -220,11 +220,11 @@
                                 </div>
                                 <div class="ant-col ant-col-19">
                                   <span class="font-large">
-                                    <b>Internet of Things</b>
+                                    <b>HR Advisory &amp; Consulting Services</b>
                                   </span>
                                 </div>
                               </div>
-                              <div class="ant-row-flex font-xsmall lh-medium">Use telemetry data to create products, apps and systems that learn from the world around them.</div>
+                              <div class="ant-row-flex font-xsmall lh-medium">With our HR Advisory Services, you can concentrate on your primary business.</div>
                             </div>
                           </div>
                         </a>
@@ -271,8 +271,8 @@
           <div class="marquee ">
             <div class="banner pos-fixed px-6 pt-2" style="bottom:0;z-index:100">
               <p class="content">
-                <span>Welcome to Accecore | Direction in the World of possibility withdrawal visit - <a href="#">PF Help Centre</a> | </span>
-                <span>For all other associate queries, write to us at <a href="mailto:info@accecore.com">info@accecore.com</a>
+                <span>Welcome to Accecore</span>
+                <span>For all other queries, write to us at <a href="mailto:info@accecore.com">info@accecore.com</a>
                 </span>
               </p>
             </div>

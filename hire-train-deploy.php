@@ -8,7 +8,7 @@ $currentPage = "solutions";
   <meta charSet="utf-8" />
   <meta http-equiv="x-ua-compatible" content="ie=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-  <title>Accecore | Transformation</title>
+  <title>Accecore | Hire Train Deploy</title>
   <link rel="stylesheet" href="css/style.css">
   <?php include 'favicon.php';?>
   <meta name="theme-color" content="#663399" />
@@ -24,12 +24,12 @@ $currentPage = "solutions";
         <!-- Hero -->
         <div class="hero-section" style="background-image: url(images/digital_banner.jpg);">
             <div class="content-section">
-              <h1>Transformation</h1>
+              <h1>Hire Train Deploy</h1>
             </div>
           </div>
           <div class="ant-row custome-breadcrumb px-5 pt-5 pb-0">
           <div class="ant-breadcrumb"><span><span class="ant-breadcrumb-link"><a href="/">
-             Home</a> / <a href="/accecore/#solutions">Solutions</a> / Transformation</span><span class="ant-breadcrumb-separator"></span></span></div></div> 
+             Home</a> / <a href="/accecore/#solutions">Solutions</a> / Hire Train Deploy</span><span class="ant-breadcrumb-separator"></span></span></div></div> 
           </div>
           <!-- Hero -->
         <section class="adviceDetailsSection px-3 px-md-6">
@@ -44,7 +44,7 @@ $currentPage = "solutions";
           <div class="ant-row">
             <div class="ant-col ant-col-xs-24 ant-col-sm-24 ant-col-md-24 ant-col-lg-16 ant-col-xl-16">
               <div class="heading my-1">
-                <h1>We drive transformation</h1>
+                <h1>A workforce solution that is adapted to your needs</h1>
               </div>
             </div>
           </div>

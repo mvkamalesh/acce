@@ -24,12 +24,12 @@ $currentPage = "customers";
         <!-- Hero -->
         <div class="hero-section" style="background-image: url(images/aboutus_banner.jpg);">
             <div class="content-section">
-              <h1>Customers</h1>
+              <h1>Industry</h1>
             </div>
           </div>
           <div class="ant-row custome-breadcrumb px-5 pt-5 pb-0">
           <div class="ant-breadcrumb"><span><span class="ant-breadcrumb-link"><a href="/">
-             Home</a> / Customers</span><span class="ant-breadcrumb-separator"></span></span></div></div> 
+             Home</a> / Industry</span><span class="ant-breadcrumb-separator"></span></span></div></div> 
           </div>
           <!-- Hero -->
         <section class="adviceDetailsSection px-3 px-md-6">
@@ -43,35 +43,85 @@ $currentPage = "customers";
     <li>
       <div class="logo-holder logo-1">
         <a href="#">
-          <h3>Client 1</h3>
-          <p>dolor sit amet</p>
+          <h3>Retail</h3>
         </a>
       </div>
     </li>
     <li>
       <div class="logo-holder logo-1">
-        <a href="#">
-          <h3>Client 2</h3>
-          <p>dolor sit amet</p>
-        </a>
+          <h3>LOGISTICS</h3>
       </div>
     </li>
     <li>
       <div class="logo-holder logo-1">
-        <a href="#">
-          <h3>Client 3</h3>
-          <p>dolor sit amet</p>
-        </a>
+          <h3>TELECOM</h3>
       </div>
     </li>
     <li>
       <div class="logo-holder logo-1">
-        <a href="#">
-          <h3>Client 4</h3>
-          <p>dolor sit amet</p>
-        </a>
+          <h3>AIRLINES</h3>
       </div>
     </li>
+    <li>
+      <div class="logo-holder logo-1">
+          <h3>OIL-GAS &amp; ENERGY</h3>
+      </div>
+    </li>
+    <li>
+      <div class="logo-holder logo-1">
+          <h3>HOSPITALITY – HOTEL, TOURISM</h3>
+      </div>
+    </li>
+    <li>
+      <div class="logo-holder logo-1">
+          <h3>HEALTHCARE- PHARMA, LIFE SCIENCE</h3>
+      </div>
+    </li>
+    <li>
+      <div class="logo-holder logo-1">
+          <h3>MANUFACTURING</h3>
+      </div>
+    </li>
+    <li>
+      <div class="logo-holder logo-1">
+          <h3>BFSI</h3>
+      </div>
+    </li>  
+    <li>
+      <div class="logo-holder logo-1">
+          <h3>FINANCIAL</h3>
+      </div>
+    </li> 
+    <li>
+      <div class="logo-holder logo-1">
+          <h3>EDUCATION</h3>
+      </div>
+    </li> 
+    <li>
+      <div class="logo-holder logo-1">
+          <h3>ENGINEERING</h3>
+      </div>
+    </li> 
+    <li>
+      <div class="logo-holder logo-1">
+          <h3>FMCG</h3>
+      </div>
+    </li> 
+    <li>
+      <div class="logo-holder logo-1">
+          <h3>REAL ESTATE</h3>
+      </div>
+    </li> 
+    <li>
+      <div class="logo-holder logo-1">
+          <h3>AUTOMOBILES</h3>
+      </div>
+    </li>
+    <li>
+      <div class="logo-holder logo-1">
+          <h3>CHEMICAL</h3>
+      </div>
+    </li>        
   </ul>
 </div>
 

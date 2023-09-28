@@ -48,73 +48,41 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
 
   <div class="wrapper">
-    <header>Send us a Message</header>
-    <form action="#">
-      <div class="dbl-field">
-        <div class="field">
-          <input type="text" name="name" placeholder="Enter your name">
-          <i class='fas fa-user'></i>
-        </div>
-        <div class="field">
-          <input type="text" name="email" placeholder="Enter your email">
-          <i class='fas fa-envelope'></i>
-        </div>
+    <header>Contact Us</header>
+    <div class="row contactrow">
+      <div class="col-md-6 contactpad">
+        <h3><strong>Reg Office</strong></h3>
+        <address>
+          Accecore Business Solutions Pvt Ltd.
+          # 90/2, Om Shakthi Towers
+          VPK Street, Rajeev Nagar
+          Perungudi, Chennai – 600 096
+        </address>
       </div>
-      <div class="dbl-field">
-        <div class="field">
-          <input type="text" name="phone" placeholder="Enter your phone">
-          <i class='fas fa-phone-alt'></i>
-        </div>
-        <div class="field">
-          <input type="text" name="website" placeholder="Enter your website">
-          <i class='fas fa-globe'></i>
-        </div>
+      <div class="col-md-6 contactpad">
+        <h3><strong>Branch Offices</strong></h3>
+        <h4>Chennai</h4>
+        <address>
+          Accecore Business Solutions Pvt Ltd.
+          Greeta Tech Park, Phase – 1
+          South Wing, #96, 3rd Floor
+          VSI Functional Industrial Estate
+          Perungudi, Chennai - 600 096
+        </address><br>
+        <h4>Bengaluru</h4>
+        <address>
+          Accecore Business Solutions Pvt Ltd.
+          S. V. Haven, #77, 2 nd Cross
+          LA Maison Layout, Markondanahalli
+          Bengaluru – 560 036
+        </address>
       </div>
-      <div class="message">
-        <textarea placeholder="Write your message" name="message"></textarea>
-        <i class="material-icons">message</i>
-      </div>
-      <div class="button-area">
-        <button type="submit">Send Message</button>
-        <span></span>
-      </div>
-      <br/>
-    </form>
+    </div>
+
   </div>
 
   <script src="script.js"></script>
-<script>
-    //Contact Form in PHP
-const form = document.querySelector("form"),
-statusTxt = form.querySelector(".button-area span");
-form.onsubmit = (e)=>{
-  e.preventDefault();
-  statusTxt.style.color = "#0D6EFD";
-  statusTxt.style.display = "block";
-  statusTxt.innerText = "Sending your message...";
-  form.classList.add("disabled");
 
-  let xhr = new XMLHttpRequest();
-  xhr.open("POST", "message.php", true);
-  xhr.onload = ()=>{
-    if(xhr.readyState == 4 && xhr.status == 200){
-      let response = xhr.response;
-      if(response.indexOf("required") != -1 || response.indexOf("valid") != -1 || response.indexOf("failed") != -1){
-        statusTxt.style.color = "red";
-      }else{
-        form.reset();
-        setTimeout(()=>{
-          statusTxt.style.display = "none";
-        }, 3000);
-      }
-      statusTxt.innerText = response;
-      form.classList.remove("disabled");
-    }
-  }
-  let formData = new FormData(form);
-  xhr.send(formData);
-}
-    </script>
 
               </div>
 
