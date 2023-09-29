@@ -19,7 +19,6 @@ html {
   width: 100%;
   height: 100%
 }
-.details p{margin-bottom: 18px;}
 *,
 :after,
 :before {
@@ -38,7 +37,6 @@ html {
 @-ms-viewport {
   width: device-width
 }
-
 body {
   margin: 0;
   color: #221e20;
@@ -1311,6 +1309,9 @@ body {
 
 .adviceDetailsSection .details p  { 
     font-size: 1.2rem;
+    margin-bottom: 18px;
+    text-align: justify;
+    
 } 
 
 .adviceDetailsSection h2  { 
@@ -1330,7 +1331,7 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   display: flex;
-  height: 400px;
+  height: 480px;
   justify-content: center;
   overflow: hidden;
   position: relative;  
@@ -1561,6 +1562,9 @@ p {
 .logo-holder h3:first-letter {
 text-transform: capitalize;
 }
+
+.card-heading { text-transform: lowercase;}
+.card-heading:first-letter { text-transform: capitalize;}
 
 /* Logo-1 */
 .logo-1 h3 {
@@ -1940,3 +1944,53 @@ p.para {
   0% { opacity: 0; }
   100% { opacity: 1; }
 }
+
+.card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 35px;
+  padding: 20px;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+  transition: transform 0.3s;
+  margin-bottom: 30px;
+  width: 18%;
+  display: flex;
+ flex-direction: column;
+}
+.card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
+.card:hover {
+  transform: scale(1.05);
+}
+h4.chead {font-size: 18px; padding-bottom: 8px;color: #9b1c14; font-weight: 600;}
+
+.card img {
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+  flex-grow: 1; /* Allow the image to grow and take up available space */
+}
+
+.card-heading {
+  padding: 15px;
+  text-align: center;
+  background-color: #9b1c14;
+  color: #fff;
+  font-size: 18px;
+  flex-grow: 0; /* Prevent the heading from growing and pushing content */
+}
+.industryinfo {width: 90%; margin: 0 auto;}
+ul.custlist{ margin-left: 20px; margin-bottom: 15px;}
+ul.custlist li {list-style-position: inside;}
