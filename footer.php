@@ -13,45 +13,43 @@
         </div>
         <div class="ant-col ant-col-24  d-flex flex-column align-items-center align-items-md-start ant-col-md-12 ant-col-lg-6">
           <div class="font-h6 fw-600 c-white py-2">Solutions</div>
-          <a href="software">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Software Engineering & Assurance</div>
+          <a href="generalstaffing">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">General Staffing</div>
           </a>
-          <a href="analytics-datascience">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Analytics, Data Science & AI</div>
+          <a href="outsourcing-services">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Outsourcing Services</div>
           </a>
-          <a href="cloud-infrastructure">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Cloud Infrastructure</div>
+          <a href="professional-staffing">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Professional Staffing</div>
           </a>
-          <a href="transformation">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Transformation </div>
+          <a href="hire-train-deploy">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Hire Train Deploy </div>
           </a>
-          <a href="staffing">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Staffing & Resource Augmentation</div>
+          <a href="permanent-placements">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Permanent Placements</div>
           </a>
         </div>
         <div class="ant-col ant-col-24  mt-0 mt-md-5 d-flex flex-column align-items-center align-items-md-start ant-col-md-12 ant-col-lg-6">
           <div class="font-h6 fw-600 c-white py-2"></div>
-          <a href="digital-innovation">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Digital Innovation & Experience Platforms</div>
+          <a href="rpolite">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">RPO Lite</div>
           </a>
-          <a href="experience-design">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Experience Design</div>
+          <a href="payroll-outsourcing">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Payroll Outsourcing</div>
           </a>
-          <a href="data-modernization">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Data Modernization & Hyper Automation</div>
+          <a href="enterprise-solutions">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Enterprise Solutions</div>
           </a>
-          <a href="iot">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Internet of Things</div>
+          <a href="hr-advisory">
+            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">HR Advisory</div>
           </a>
         </div>
         <div class="ant-col ant-col-24  d-flex flex-column align-items-center align-items-md-start ant-col-md-12 ant-col-lg-6">
           <div class="font-h6 fw-600 c-white py-2">Others</div>
-          <a href="#">
+          <a href="careers">
             <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Careers</div>
           </a>
-          <a href="#">
-            <div class="font-normal c-secondary py-2 pr-0 pr-md-5" style="cursor:pointer">Events</div>
-          </a>
+
 
         </div>
       </div>
